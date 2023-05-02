@@ -11,7 +11,7 @@ from http.cookies import SimpleCookie
 from datetime import datetime
 
 WEREAD_URL = "https://weread.qq.com/"
-WEREAD_NOTEBOOKS_URL = "https://i.weread.qq.com/user/notebooks"
+WEREAD_NOTEBOOKS_URL = "https://i.weread.qq.com/shelf/sync"
 WEREAD_BOOKMARKLIST_URL = "https://i.weread.qq.com/book/bookmarklist"
 WEREAD_CHAPTER_INFO = "https://i.weread.qq.com/book/chapterInfos"
 WEREAD_READ_INFO_URL = "https://i.weread.qq.com/book/readinfo"
